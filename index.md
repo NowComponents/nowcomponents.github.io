@@ -4,12 +4,42 @@ layout: default
 
 This project's goal is to manage and create open [Now Components](https://docs.servicenow.com/bundle/orlando-servicenow-platform/page/build/components/task/develop-component.html).  
 
-I love to get folks excited about the now experience. In three months (October) Hactoberfest starts. Developers are suckers for gifts. Let's get them making quality open source components for gifts from you.
+# Contributing to Now Components
 
-You're thinking, "Great. How are you going to make this happen in these bizarre times?" The answer is online, but here's the way we will run it.
+Hi there! We're thrilled that you'd like to contribute to Now Component Catalog. Your help is essential for keeping it great.
 
-We're excited and we hope you are too. You're going to make some peoples day and get your brand out there.
+The Now Component Catalog is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into site itself or **adding new components to the catalog**.
 
-What's next? Well we need to be able to get this swag to the people. So as part of the pull request, we will be collecting mailing information for individuals. After they make a pull request they are all set to get a gift package.
+Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-I need companies that can do these things;
+## As an individual
+
+- [Seeding Ideas for Now Components]()
+- [Fleshing out Ideas for Now Components]()
+- [Updating this site to better show this catalog]()
+- [Creating Components]() and making pull request to add them here
+- Share details about this on your social networks.
+- Become part of the maintainers to accept Pull Requests, and run the project.
+
+
+## As a corporation
+
+To get more people involved lets lure them with stuff, or help us lure them with stuff.
+
+- Shipping swag to people
+- Allowing person to order some swag at no cost and ship it
+- Pay for shipping of existing swag
+- Donate swag
+- Share details about this on your social networks.
+
+
+# How this project is structured
+
+1.  Now Components need their own Scope in ServiceNow.  You can only have one scope in a repository, as such, this repository will act as catalog of those other repositories.
+2.  Because we want these components available for the foreseeable future, this [organziation](https://github.com/nowcomponents) will have all the repositories.  
+  - To get a repository in this organization, log an issue or comment on an issue that you want to build that specific component.
+  - Once a repository is made, [fork it](https://guides.github.com/activities/forking/)
+  - In your fork, follow the [flow](https://guides.github.com/introduction/flow/)
+  - When it's working properly, [make a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) to the original repo in this organization
+  - Additionally, make a fork of [this repository](https://github.com/NowComponents/nowcomponents.github.io) and add details about the component.  You should minimally have a screenshot of it, a description, if relevant, a code snippet to call it.
+3.  You will be contacted by a maintainer to figure out swag.
