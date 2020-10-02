@@ -14,10 +14,10 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## As an individual
 
-- [Seeding Ideas for Now Components]()
-- [Fleshing out Ideas for Now Components]()
-- [Updating this site to better show this catalog]()
-- [Creating Components]() and making pull request to add them here
+- [Seeding Ideas for Now Components](https://github.com/NowComponents/nowcomponents.github.io/issues) by raising Issues against this repository
+- [Fleshing out Ideas for Now Components](https://github.com/NowComponents) by raising Issues against the component's repository
+- [Updating this site to better show this catalog](https://github.com/NowComponents/nowcomponents.github.io/pulls)
+- [Creating Components](https://developer.servicenow.com/dev.do#!/reference/now-experience/paris/cli/getting-started) and making pull request to add them here
 - Share details about this on your social networks.
 - Become part of the maintainers to accept Pull Requests, and run the project.
 
