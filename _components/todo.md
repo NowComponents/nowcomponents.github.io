@@ -2,8 +2,8 @@
 title:  "Todo"
 author: "Brad Tilton"
 ---
-[todo](https://github.com/NowComponents/todo) - Todo component that works with the [Simple Todo]() app. Someone please make it look nicer...
-![Spotify](./assets/images/todo.png)
+[todo](https://github.com/NowComponents/todo) - Todo component that works with the Simple Todo app. Someone please make it look nicer...
+![Todo](./assets/images/todo.png)
 
 
 This is a fairly barebones todo list component that uses the httpEffect, input, buttons, and a subcomponent to build a (not very pretty) todo list. You can create new, complete, and cancel todos from the component.
