@@ -33,7 +33,7 @@ To get more people involved lets lure them with stuff, or help us lure them with
 - Share details about this on your social networks.
 
 
-# How this project is structured
+# How
 
 1.  Now Components need their own Scope in ServiceNow.  You can only have one scope in a repository, as such, this repository will act as catalog of those other repositories.
 2.  Because we want these components available for the foreseeable future, this [organziation](https://github.com/nowcomponents) will have all the repositories.  
