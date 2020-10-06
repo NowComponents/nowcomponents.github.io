@@ -43,7 +43,3 @@ To get more people involved lets lure them with stuff, or help us lure them with
   - When it's working properly, [make a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) to the original repo in this organization
   - Additionally, make a fork of [this repository](https://github.com/NowComponents/nowcomponents.github.io) and add details about the component.  You should minimally have a screenshot of it, a description, if relevant, a code snippet to call it.
 3.  You will be contacted by a maintainer to figure out swag.
-
-# Components
-[Spotify](https://github.com/NowComponents/spotify) - Embed a spotify playlist
-![Spotify](/Spotify.png)
