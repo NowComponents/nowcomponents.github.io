@@ -4,7 +4,7 @@ layout: default
 
 This project's goal is to manage and create open [Now Components](https://docs.servicenow.com/bundle/orlando-servicenow-platform/page/build/components/task/develop-component.html).  
 
-# Contributing to Now Components
+# Contributing
 
 Hi there! We're thrilled that you'd like to contribute to Now Component Catalog. Your help is essential for keeping it great.
 
