@@ -47,3 +47,6 @@ To get more people involved lets lure them with stuff, or help us lure them with
 # Components
 [Spotify](https://github.com/NowComponents/spotify) - Embed a spotify playlist
 ![Spotify](/Spotify.png)
+
+[todo](https://github.com/NowComponents/todo) - Todo component that works with the [Simple Todo]() app. Someone please make it look nicer...
+![todo](/todo.png)
