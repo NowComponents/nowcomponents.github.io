@@ -4,4 +4,4 @@ author: "Paige"
 ---
 
 [Spotify](https://github.com/NowComponents/spotify) - Embed a spotify playlist
-![Spotify](./assets/images/spotify.png)
+![Spotify](./assets/images/Spotify.png)
