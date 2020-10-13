@@ -4,7 +4,7 @@ layout: default
 
 This project's goal is to manage and create open [Now Components](https://docs.servicenow.com/bundle/orlando-servicenow-platform/page/build/components/task/develop-component.html).  
 
-# Contributing to Now Components
+# Contributing
 
 Hi there! We're thrilled that you'd like to contribute to Now Component Catalog. Your help is essential for keeping it great.
 
@@ -33,13 +33,17 @@ To get more people involved lets lure them with stuff, or help us lure them with
 - Share details about this on your social networks.
 
 
-# How this project is structured
+# How
 
 1.  Now Components need their own Scope in ServiceNow.  You can only have one scope in a repository, as such, this repository will act as catalog of those other repositories.
 2.  Because we want these components available for the foreseeable future, this [organziation](https://github.com/nowcomponents) will have all the repositories.  
-  - To get a repository in this organization, log an issue or comment on an issue that you want to build that specific component.
-  - Once a repository is made, [fork it](https://guides.github.com/activities/forking/)
-  - In your fork, follow the [flow](https://guides.github.com/introduction/flow/)
-  - When it's working properly, [make a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) to the original repo in this organization
-  - Additionally, make a fork of [this repository](https://github.com/NowComponents/nowcomponents.github.io) and add details about the component.  You should minimally have a screenshot of it, a description, if relevant, a code snippet to call it.
+    - To get a repository in this organization, log an issue or comment on an issue that you want to build that specific component.
+    - Once a repository is made, [fork it](https://guides.github.com/activities/forking/)
+    - In your fork, follow the [flow](https://guides.github.com/introduction/flow/)
+    - When it's working properly, [make a pull request](https://guides.github.com/activities/forking/#making-a-pull-request) to the original repo in this organization
+    - Make a fork of [this repository](https://github.com/NowComponents/nowcomponents.github.io) and add details about the component.  
+    - Include a screenshot of it, a description, and if relevant, a code snippet to call it.
+    - You'll likely just copy how the [Spotify component is done](https://raw.githubusercontent.com/NowComponents/nowcomponents.github.io/master/_components/spotify.md) is done
+
+    
 3.  You will be contacted by a maintainer to figure out swag.
