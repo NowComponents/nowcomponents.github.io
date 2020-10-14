@@ -15,5 +15,5 @@ The KB article content is displayed in a now-modal pop-up when clicking on the a
 
 To test, update the sysid attribute in the [example](https://github.com/NowComponents/kb-approval-card/blob/main/example/element.js) - provide a valid sys_id of an Approval [sysapproval_approver] record in your instance.
 
-when the approval is actioned, the component provides feedback with the status and updates the card.
+When the approval is actioned, the component provides feedback with the status and updates the card.
 ![KB Approved](./assets/images/kb-approved.png)
