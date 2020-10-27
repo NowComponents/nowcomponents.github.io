@@ -1,8 +1,10 @@
 ---
 title:  "Todo"
 author: "Brad Tilton"
+author-username: "bradtiltonnow"
+repo-url: "https://github.com/NowComponents/todo"
 ---
-[todo](https://github.com/NowComponents/todo) - Todo component that works with the Simple Todo app.
+Todo component that works with the Simple Todo app.
 ![Todo](./assets/images/todo.png)
 
 
