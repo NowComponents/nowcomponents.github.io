@@ -1,8 +1,10 @@
 ---
 title:  "KB Approval Card"
 author: "Nia"
+author-username: "niamccash"
+repo-url: "https://github.com/NowComponents/kb-approval-card"
 ---
-[KB Approval Card](https://github.com/NowComponents/kb-approval-card) - A KB Approval card component that takes in a sys_id of a KB Approval Record.
+A KB Approval card component that takes in a sys_id of a KB Approval Record.
 ![KB Approval Card](./assets/images/kb-approval-card.png)
 
 

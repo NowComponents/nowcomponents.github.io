@@ -1,8 +1,9 @@
 ---
 title:  "Font Awesome Icons"
 author: "James Freund"
+author-username: "Quixomatic"
+repo-url: "https://github.com/NowComponents/fa-icon"
 ---
-[fa-icon](https://github.com/NowComponents/kb-approval-card)
 
 The icon set has been loaded as a component named `fa-icon` and works similarly to how `now-icon` works. For example:
 
