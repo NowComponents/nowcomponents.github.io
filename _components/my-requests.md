@@ -1,8 +1,10 @@
 ---
 title:  "My Requests"
 author: "Jaydeep Deb"
+author-username: "jaydeepdeb405"
+repo-url: "https://github.com/NowComponents/ne-my-requests"
 ---
-[My Requests](https://github.com/NowComponents/ne-my-requests) - Now Experience component to display current user's requested items in a card view.
+Now Experience component to display current user's requested items in a card view.
 The component updates itself in real-time so that users can see their requests getting processed.
 
 ![image](./assets/images/my-requests.png)
