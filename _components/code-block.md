@@ -1,8 +1,9 @@
 ---
 title:  "Code Block"
 author: "Tomas Hrobarikt"
+author-username: "hrobarikt"
+repo-url: "https://github.com/NowComponents/code-block"
 ---
-[code-block](https://github.com/NowComponents/code-block)
 
 A code-block element that can be used for rendering code snippets inside of the HTML. It is using PrismJS for syntax highlighting. Other suggestions for improvement are welcomed 👋
 

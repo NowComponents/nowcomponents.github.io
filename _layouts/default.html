@@ -44,7 +44,15 @@
         {{ content }}
         <h1>Components</h1>
         {% for component in site.components %}
-            <h2>{{ component.title }}</h2><span>Made by {{component.author }}</span>
+            <h2>{{ component.title }}</h2>
+              {% if component.author and component.author-username %}
+                <span>Made By <a href="https://github.com/{{component.author-username}}">{{component.author}}</a></span>
+              {% else %}
+                <span>Made by {{ component.author }}</span>
+              {% endif %}
+              {% if component.repo-url %}
+                <div><a href="{{ component.repo-url }}">View Repo</a></div>
+              {% endif %}
             {{ component.content }}
         {% endfor %}
       </section>
